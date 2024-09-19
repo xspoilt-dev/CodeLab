@@ -1,4 +1,6 @@
-# CodeLab
+<h1 align="center">
+  CodeLab - Practise
+</h1>
 
 Welcome to **CodeLab**, a repository where I practice various techniques and programming concepts. This project is a hands-on learning space for experimenting with algorithms, design patterns, scripting, and more.
 
