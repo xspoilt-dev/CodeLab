@@ -1,6 +1,9 @@
 <h1 align="center">
   CodeLab - Practise
 </h1>
+<img align="centre" src="https://github.com/xspoilt-dev/Peaky-Hub/blob/main/Leonardo_Phoenix_Create_a_visually_striking_digital_image_feat_2.jpg?raw=true">
+
+
 
 Welcome to **CodeLab**, a repository where I practice various techniques and programming concepts. This project is a hands-on learning space for experimenting with algorithms, design patterns, scripting, and more.
 
