@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>xspoilt-cmd</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="intro">
+        <h1 class="fade-in">DEV : MINHAJUL ISLAM <i class="fas fa-user"></i></h1>
+        <h2 class="fade-in">Use The Terminal!! <i class="fas fa-terminal"></i></h2>
+    </div>
+
+    <div class="terminal-container">
+        <div class="terminal">
+            <div class="output" id="output"></div>
+            <div class="input-line">
+                <span class="prompt">xspoilt@cmd:~$ </span>
+                <span id="input-text"></span>
+                <span class="blinking-cursor" id="blinking-cursor">|</span>
+                <input type="text" id="input" autofocus autocomplete="off">
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
